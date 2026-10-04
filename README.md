@@ -7,11 +7,11 @@
 ![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-10-04-amber)
 
 ## 🚀 Günün Radarı (2026-10-04)
-> En son güncelleme: **04 October 2026, 15:17 TRT** | [Tüm Raporu Oku →](reports/2026-10-04.md)
+> En son güncelleme: **04 October 2026, 15:20 TRT** | [Tüm Raporu Oku →](reports/2026-10-04.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
 - **[OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762)** — `163 upvotes` (Xiangyu Zeng, Yuandong Yang, Zhiqiu Zhang et al.)
-- **[On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://arxiv.org/abs/2609.35259)** — `154 upvotes` (Julianna Piskorz, Antonin Berthon, Mihaela van der Schaar)
+- **[On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://arxiv.org/abs/2609.35259)** — `155 upvotes` (Julianna Piskorz, Antonin Berthon, Mihaela van der Schaar)
 - **[Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](https://arxiv.org/abs/2609.36585)** — `62 upvotes` (Zehao Jin, Ruixuan Deng, Junran Wang)
 
 ### ⚡ Trend Açık Kaynak Projeleri
