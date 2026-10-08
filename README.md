@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-10-07-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-10-08-amber)
 
-## 🚀 Günün Radarı (2026-10-07)
-> En son güncelleme: **07 October 2026, 19:14 TRT** | [Tüm Raporu Oku →](reports/2026-10-07.md)
+## 🚀 Günün Radarı (2026-10-08)
+> En son güncelleme: **08 October 2026, 19:15 TRT** | [Tüm Raporu Oku →](reports/2026-10-08.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability](https://arxiv.org/abs/2610.08448)** — `151 upvotes` (Bingxi Hou, Guochao Jiang, Guofeng Quan et al.)
-- **[TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models](https://arxiv.org/abs/2610.07767)** — `58 upvotes` (Xin Wang, Hao Yu, Zhengyang Zhuge et al.)
-- **[From Evidence to Action: How Tool-Using Agents Fail](https://arxiv.org/abs/2610.07753)** — `33 upvotes` (Hongzhan Lin, Shidong Cao, Ziyang Luo et al.)
+- **[STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://arxiv.org/abs/2609.38169)** — `94 upvotes` (Bingchen Yao, Haobo Xu, Haokun Lin et al.)
+- **[Long-WAM: Scaling the Context of World-Action Models](https://arxiv.org/abs/2610.10528)** — `84 upvotes` (Wei Huang, Bohan Zhang, Chenzhi Liu et al.)
+- **[Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness](https://arxiv.org/abs/2610.08621)** — `76 upvotes` (Jiajun Chen, Haoyu Wu, Mingda Jia et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `200,727`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `172,277`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `167,024`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `200,736`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `172,365`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `167,043`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-10-08 | [Raporu İncele](reports/2026-10-08.md) |
 | 2026-10-07 | [Raporu İncele](reports/2026-10-07.md) |
 | 2026-10-06 | [Raporu İncele](reports/2026-10-06.md) |
 | 2026-10-05 | [Raporu İncele](reports/2026-10-05.md) |
