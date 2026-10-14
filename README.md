@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-10-13-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-10-14-amber)
 
-## 🚀 Günün Radarı (2026-10-13)
-> En son güncelleme: **13 October 2026, 19:49 TRT** | [Tüm Raporu Oku →](reports/2026-10-13.md)
+## 🚀 Günün Radarı (2026-10-14)
+> En son güncelleme: **14 October 2026, 17:25 TRT** | [Tüm Raporu Oku →](reports/2026-10-14.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://arxiv.org/abs/2610.13527)** — `271 upvotes` (Zhiyuan Shi, Xiang Li, Xingzhuo Guo et al.)
-- **[GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://arxiv.org/abs/2609.39601)** — `207 upvotes` (Qize Yu, Lianrui Fan, Boyu Chen et al.)
-- **[AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://arxiv.org/abs/2610.13361)** — `201 upvotes` (Jiahao Wang, Hongjin Qian, Yuyang Hu et al.)
+- **[VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615)** — `155 upvotes` (Yuhan Zhu, Xiangyu Zeng, Qingyi Si et al.)
+- **[Jeva: System One Models from First Principles](https://arxiv.org/abs/2610.18773)** — `144 upvotes` (Qi Li, Xinchao Wang)
+- **[Agent-Reflex: Teaching Language Agents to Act Reflectively](https://arxiv.org/abs/2610.17953)** — `134 upvotes` (Guanting Dong, Xinyu Yang, Jiajie Jin et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `200,927`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `172,827`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `167,669`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `200,963`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `172,935`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `167,719`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-10-14 | [Raporu İncele](reports/2026-10-14.md) |
 | 2026-10-13 | [Raporu İncele](reports/2026-10-13.md) |
 | 2026-10-12 | [Raporu İncele](reports/2026-10-12.md) |
 | 2026-10-11 | [Raporu İncele](reports/2026-10-11.md) |
