@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-10-16-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-10-17-amber)
 
-## 🚀 Günün Radarı (2026-10-16)
-> En son güncelleme: **16 October 2026, 16:51 TRT** | [Tüm Raporu Oku →](reports/2026-10-16.md)
+## 🚀 Günün Radarı (2026-10-17)
+> En son güncelleme: **17 October 2026, 15:49 TRT** | [Tüm Raporu Oku →](reports/2026-10-17.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://arxiv.org/abs/2610.21601)** — `200 upvotes` (Bingxi Hou, Guochao Jiang, Guofeng Quan et al.)
-- **[RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](https://arxiv.org/abs/2610.17665)** — `194 upvotes` (Qingchuan Ma, Yuexiao Ma, Xiang Meng et al.)
-- **[Self-Evolving Agent Harness](https://arxiv.org/abs/2610.18813)** — `185 upvotes` (Chuyang Wei, Haoxiang Guan, Minghang Zhu et al.)
+- **[Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://arxiv.org/abs/2610.21601)** — `662 upvotes` (Bingxi Hou, Guochao Jiang, Guofeng Quan et al.)
+- **[MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://arxiv.org/abs/2610.22276)** — `349 upvotes` (Luozheng Qin, Yuhan Zhu, Changhai Zhou et al.)
+- **[OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://arxiv.org/abs/2610.22200)** — `315 upvotes` (Hanzhang Zhou, Long Li, Quyu Kong et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,061`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `173,161`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `167,764`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,078`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `173,229`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `167,788`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-10-17 | [Raporu İncele](reports/2026-10-17.md) |
 | 2026-10-16 | [Raporu İncele](reports/2026-10-16.md) |
 | 2026-10-15 | [Raporu İncele](reports/2026-10-15.md) |
 | 2026-10-14 | [Raporu İncele](reports/2026-10-14.md) |
