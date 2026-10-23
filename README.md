@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-10-22-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-10-23-amber)
 
-## 🚀 Günün Radarı (2026-10-22)
-> En son güncelleme: **22 October 2026, 17:26 TRT** | [Tüm Raporu Oku →](reports/2026-10-22.md)
+## 🚀 Günün Radarı (2026-10-23)
+> En son güncelleme: **23 October 2026, 17:09 TRT** | [Tüm Raporu Oku →](reports/2026-10-23.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?](https://arxiv.org/abs/2610.26659)** — `124 upvotes` (Zhaoxi Zhang, Hao Liang, Linxuan Wu et al.)
-- **[StreamEval: Evaluating Interactive Streaming Video Generation Models](https://arxiv.org/abs/2610.28402)** — `107 upvotes` (StreamEval Team)
-- **[DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations](https://arxiv.org/abs/2610.29997)** — `99 upvotes` (Mingze Sun, Ziang Cao, Yuan Fei et al.)
+- **[WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://arxiv.org/abs/2610.31329)** — `212 upvotes` (Tianming Liang, Junyi Pan, Yuxi Li et al.)
+- **[Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://arxiv.org/abs/2610.30926)** — `161 upvotes` (Songlin Yang, Zhe Wang, Xiaotong Zhao et al.)
+- **[Deep Search in Real-World Web Environments](https://arxiv.org/abs/2610.30181)** — `146 upvotes` (Xiaomin Yu, Hongliang Chen, Zhe Huang et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,181`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `173,935`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `167,985`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,194`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `174,165`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,027`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-10-23 | [Raporu İncele](reports/2026-10-23.md) |
 | 2026-10-22 | [Raporu İncele](reports/2026-10-22.md) |
 | 2026-10-21 | [Raporu İncele](reports/2026-10-21.md) |
 | 2026-10-20 | [Raporu İncele](reports/2026-10-20.md) |
