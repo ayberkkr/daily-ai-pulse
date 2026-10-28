@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-10-27-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-10-28-amber)
 
-## 🚀 Günün Radarı (2026-10-27)
-> En son güncelleme: **27 October 2026, 18:14 TRT** | [Tüm Raporu Oku →](reports/2026-10-27.md)
+## 🚀 Günün Radarı (2026-10-28)
+> En son güncelleme: **28 October 2026, 18:50 TRT** | [Tüm Raporu Oku →](reports/2026-10-28.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://arxiv.org/abs/2610.33568)** — `325 upvotes` (Yihao Hu, Zhihao Wen, Yitong Lin et al.)
-- **[StreamVibe: Proactive Video Agents for Evolving User Intent](https://arxiv.org/abs/2610.34662)** — `231 upvotes` (Chengzhi Liu, Yuxiang Lai, Yuzhe Yang et al.)
-- **[DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://arxiv.org/abs/2610.34467)** — `176 upvotes` (Ruhao Liu, Qi Li, Shizun Wang et al.)
+- **[The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://arxiv.org/abs/2610.36077)** — `308 upvotes` (Weidong Tang, Ruiheng Wang, Jingxuan Zhang et al.)
+- **[ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://arxiv.org/abs/2610.34283)** — `255 upvotes` (Yihao Hu, Yitong Lin, Pan Wang et al.)
+- **[PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://arxiv.org/abs/2610.37381)** — `138 upvotes` (Hanqing Wang, Zhaotian Cai, Ruichuan An et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,295`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `174,744`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,241`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,273`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `174,935`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,275`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-10-28 | [Raporu İncele](reports/2026-10-28.md) |
 | 2026-10-27 | [Raporu İncele](reports/2026-10-27.md) |
 | 2026-10-26 | [Raporu İncele](reports/2026-10-26.md) |
 | 2026-10-25 | [Raporu İncele](reports/2026-10-25.md) |
