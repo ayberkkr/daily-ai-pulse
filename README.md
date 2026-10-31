@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-10-30-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-10-31-amber)
 
-## 🚀 Günün Radarı (2026-10-30)
-> En son güncelleme: **30 October 2026, 18:44 TRT** | [Tüm Raporu Oku →](reports/2026-10-30.md)
+## 🚀 Günün Radarı (2026-10-31)
+> En son güncelleme: **31 October 2026, 18:12 TRT** | [Tüm Raporu Oku →](reports/2026-10-31.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[Intrinsic Distribution Matching](https://arxiv.org/abs/2610.39633)** — `233 upvotes` (Deyuan Liu, Yansen Han, Kaiwen Zheng et al.)
-- **[A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://arxiv.org/abs/2610.38568)** — `150 upvotes` (Yu Liu, Youxing Li, Yuedong Tan et al.)
-- **[Your Benchmark Is an Empirical Measure Over Difficulty](https://arxiv.org/abs/2610.29927)** — `139 upvotes` (Yifan Sun, Naicheng Yu, Jiawen Gong et al.)
+- **[Intrinsic Distribution Matching](https://arxiv.org/abs/2610.39633)** — `243 upvotes` (Deyuan Liu, Yansen Han, Kaiwen Zheng et al.)
+- **[A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://arxiv.org/abs/2610.38568)** — `162 upvotes` (Yu Liu, Youxing Li, Yuedong Tan et al.)
+- **[Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://arxiv.org/abs/2610.39301)** — `148 upvotes` (Yunhang Shen, Zhangquan Chen, Xiaotian Li et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,221`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `175,220`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,352`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,245`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `175,400`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,389`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-10-31 | [Raporu İncele](reports/2026-10-31.md) |
 | 2026-10-30 | [Raporu İncele](reports/2026-10-30.md) |
 | 2026-10-29 | [Raporu İncele](reports/2026-10-29.md) |
 | 2026-10-28 | [Raporu İncele](reports/2026-10-28.md) |
