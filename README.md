@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-01-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-02-amber)
 
-## 🚀 Günün Radarı (2026-11-01)
-> En son güncelleme: **01 November 2026, 18:54 TRT** | [Tüm Raporu Oku →](reports/2026-11-01.md)
+## 🚀 Günün Radarı (2026-11-02)
+> En son güncelleme: **02 November 2026, 22:20 TRT** | [Tüm Raporu Oku →](reports/2026-11-02.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://arxiv.org/abs/2610.36671)** — `101 upvotes` (Donghyeon Cho, Joowon Kim, Seungho Shin et al.)
-- **[A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://arxiv.org/abs/2610.38568)** — `71 upvotes` (Yu Liu, Youxing Li, Yuedong Tan et al.)
-- **[Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302)** — `61 upvotes` (Randall Balestriero, Yann LeCun)
+- **[FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation](https://arxiv.org/abs/2610.36545)** — `110 upvotes` (Yijing Lin, Zhendong Mao, Mengqi Huang et al.)
+- **[R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop](https://arxiv.org/abs/2610.22740)** — `86 upvotes` (Mingda Zhang, Yun Huang, Qiang Huang et al.)
+- **[Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302)** — `70 upvotes` (Randall Balestriero, Yann LeCun)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,259`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `175,497`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,414`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,269`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `175,613`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,453`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-11-02 | [Raporu İncele](reports/2026-11-02.md) |
 | 2026-11-01 | [Raporu İncele](reports/2026-11-01.md) |
 | 2026-10-31 | [Raporu İncele](reports/2026-10-31.md) |
 | 2026-10-30 | [Raporu İncele](reports/2026-10-30.md) |
