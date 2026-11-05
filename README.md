@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-04-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-05-amber)
 
-## 🚀 Günün Radarı (2026-11-04)
-> En son güncelleme: **04 November 2026, 19:58 TRT** | [Tüm Raporu Oku →](reports/2026-11-04.md)
+## 🚀 Günün Radarı (2026-11-05)
+> En son güncelleme: **05 November 2026, 20:13 TRT** | [Tüm Raporu Oku →](reports/2026-11-05.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://arxiv.org/abs/2611.05275)** — `93 upvotes` (Pengfei Zhou, Yixing Ma, Hexin Wang et al.)
-- **[Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy](https://arxiv.org/abs/2611.00617)** — `65 upvotes` (Mengxi Xiao, Jingjing Chen, Ziyan Kuang et al.)
-- **[Think Less, Locally: Local Preference Learning for Reasoning Compression](https://arxiv.org/abs/2611.04814)** — `63 upvotes` (Muyao Yuan, Liyan Xu, Weizhan Zhang et al.)
+- **[Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://arxiv.org/abs/2611.06728)** — `100 upvotes` (Shuai Dong, Kanghui Tian, Linghan Chen et al.)
+- **[From Pixels to Actions - Towards Native Vision-Language-Action Policies](https://arxiv.org/abs/2611.06918)** — `55 upvotes` (Weichen Fan, Haiwen Diao, Penghao Wu et al.)
+- **[Think Less, Locally: Local Preference Learning for Reasoning Compression](https://arxiv.org/abs/2611.04814)** — `54 upvotes` (Muyao Yuan, Liyan Xu, Weizhan Zhang et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,301`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `175,792`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,536`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,314`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `175,886`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,572`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-11-05 | [Raporu İncele](reports/2026-11-05.md) |
 | 2026-11-04 | [Raporu İncele](reports/2026-11-04.md) |
 | 2026-11-03 | [Raporu İncele](reports/2026-11-03.md) |
 | 2026-11-02 | [Raporu İncele](reports/2026-11-02.md) |
@@ -51,7 +52,6 @@
 | 2026-10-09 | [Raporu İncele](reports/2026-10-09.md) |
 | 2026-10-08 | [Raporu İncele](reports/2026-10-08.md) |
 | 2026-10-07 | [Raporu İncele](reports/2026-10-07.md) |
-| 2026-10-06 | [Raporu İncele](reports/2026-10-06.md) |
 
 ---
 
