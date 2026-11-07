@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-06-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-07-amber)
 
-## 🚀 Günün Radarı (2026-11-06)
-> En son güncelleme: **06 November 2026, 19:39 TRT** | [Tüm Raporu Oku →](reports/2026-11-06.md)
+## 🚀 Günün Radarı (2026-11-07)
+> En son güncelleme: **07 November 2026, 18:33 TRT** | [Tüm Raporu Oku →](reports/2026-11-07.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://arxiv.org/abs/2611.06728)** — `126 upvotes` (Shuai Dong, Kanghui Tian, Linghan Chen et al.)
-- **[Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://arxiv.org/abs/2611.02075)** — `113 upvotes` (Lang Mo, Xingxuan Zhang, Qi Wang et al.)
-- **[VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://arxiv.org/abs/2611.08449)** — `77 upvotes` (Yu-Cheng Chou, Shihao Wang, Jin Huang et al.)
+- **[VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://arxiv.org/abs/2611.08449)** — `98 upvotes` (Yu-Cheng Chou, Shihao Wang, Jin Huang et al.)
+- **[Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://arxiv.org/abs/2611.02075)** — `79 upvotes` (Lang Mo, Xingxuan Zhang, Qi Wang et al.)
+- **[SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://arxiv.org/abs/2611.08373)** — `78 upvotes` (Fuhao Li, Wenxuan Song, Qizhou Huang et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,353`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `176,011`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,589`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,380`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `176,174`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,622`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-11-07 | [Raporu İncele](reports/2026-11-07.md) |
 | 2026-11-06 | [Raporu İncele](reports/2026-11-06.md) |
 | 2026-11-05 | [Raporu İncele](reports/2026-11-05.md) |
 | 2026-11-04 | [Raporu İncele](reports/2026-11-04.md) |
@@ -51,7 +52,6 @@
 | 2026-10-11 | [Raporu İncele](reports/2026-10-11.md) |
 | 2026-10-10 | [Raporu İncele](reports/2026-10-10.md) |
 | 2026-10-09 | [Raporu İncele](reports/2026-10-09.md) |
-| 2026-10-08 | [Raporu İncele](reports/2026-10-08.md) |
 
 ---
 
