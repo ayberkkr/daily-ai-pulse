@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-09-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-10-amber)
 
-## 🚀 Günün Radarı (2026-11-09)
-> En son güncelleme: **09 November 2026, 22:39 TRT** | [Tüm Raporu Oku →](reports/2026-11-09.md)
+## 🚀 Günün Radarı (2026-11-10)
+> En son güncelleme: **10 November 2026, 19:54 TRT** | [Tüm Raporu Oku →](reports/2026-11-10.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](https://arxiv.org/abs/2611.05376)** — `120 upvotes` (Hao Fei)
-- **[Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://arxiv.org/abs/2611.02075)** — `81 upvotes` (Lang Mo, Xingxuan Zhang, Qi Wang et al.)
-- **[SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://arxiv.org/abs/2611.08264)** — `59 upvotes` (Hao Yu, Zhenwei Wang, Yongzhen Hu et al.)
+- **[Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://arxiv.org/abs/2611.12806)** — `91 upvotes` (Bing Han, Yichuan Peng, Haoyu Dong et al.)
+- **[SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://arxiv.org/abs/2611.08264)** — `67 upvotes` (Hao Yu, Zhenwei Wang, Yongzhen Hu et al.)
+- **[WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://arxiv.org/abs/2611.10771)** — `50 upvotes` (Juanxi Tian, Jiadong Hou, Baiang Li et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,417`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `176,724`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,692`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,432`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `176,828`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,737`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-11-10 | [Raporu İncele](reports/2026-11-10.md) |
 | 2026-11-09 | [Raporu İncele](reports/2026-11-09.md) |
 | 2026-11-08 | [Raporu İncele](reports/2026-11-08.md) |
 | 2026-11-07 | [Raporu İncele](reports/2026-11-07.md) |
@@ -51,7 +52,6 @@
 | 2026-10-14 | [Raporu İncele](reports/2026-10-14.md) |
 | 2026-10-13 | [Raporu İncele](reports/2026-10-13.md) |
 | 2026-10-12 | [Raporu İncele](reports/2026-10-12.md) |
-| 2026-10-11 | [Raporu İncele](reports/2026-10-11.md) |
 
 ---
 
