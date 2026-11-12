@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-11-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-12-amber)
 
-## 🚀 Günün Radarı (2026-11-11)
-> En son güncelleme: **11 November 2026, 19:59 TRT** | [Tüm Raporu Oku →](reports/2026-11-11.md)
+## 🚀 Günün Radarı (2026-11-12)
+> En son güncelleme: **12 November 2026, 20:28 TRT** | [Tüm Raporu Oku →](reports/2026-11-12.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://arxiv.org/abs/2611.14210)** — `59 upvotes` (Hadi Salloum, Ammar Ali)
-- **[World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/abs/2611.12885)** — `52 upvotes` (Heng Fang, Zehui Guo, Yuehan Zhang et al.)
-- **[Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://arxiv.org/abs/2611.14320)** — `49 upvotes` (Yukyeong Lee, Yumin Choi, Jinheon Baek et al.)
+- **[Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://arxiv.org/abs/2611.14320)** — `64 upvotes` (Yukyeong Lee, Yumin Choi, Jinheon Baek et al.)
+- **[Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://arxiv.org/abs/2611.14210)** — `51 upvotes` (Hadi Salloum, Ammar Ali)
+- **[One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction](https://arxiv.org/abs/2611.13001)** — `37 upvotes` (Yuanrui Wang, Kaifang Li, Xuanyue Li et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,503`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `176,910`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,814`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,579`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `176,994`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,908`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-11-12 | [Raporu İncele](reports/2026-11-12.md) |
 | 2026-11-11 | [Raporu İncele](reports/2026-11-11.md) |
 | 2026-11-10 | [Raporu İncele](reports/2026-11-10.md) |
 | 2026-11-09 | [Raporu İncele](reports/2026-11-09.md) |
@@ -51,7 +52,6 @@
 | 2026-10-16 | [Raporu İncele](reports/2026-10-16.md) |
 | 2026-10-15 | [Raporu İncele](reports/2026-10-15.md) |
 | 2026-10-14 | [Raporu İncele](reports/2026-10-14.md) |
-| 2026-10-13 | [Raporu İncele](reports/2026-10-13.md) |
 
 ---
 
