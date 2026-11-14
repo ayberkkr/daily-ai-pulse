@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-13-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-14-amber)
 
-## 🚀 Günün Radarı (2026-11-13)
-> En son güncelleme: **13 November 2026, 20:02 TRT** | [Tüm Raporu Oku →](reports/2026-11-13.md)
+## 🚀 Günün Radarı (2026-11-14)
+> En son güncelleme: **14 November 2026, 18:40 TRT** | [Tüm Raporu Oku →](reports/2026-11-14.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://arxiv.org/abs/2611.15777)** — `71 upvotes` (Lichen Li, Ziping Dong, Sicheng Feng et al.)
-- **[BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](https://arxiv.org/abs/2611.14815)** — `44 upvotes` (Junyoung Seo, Jaewoo Seo, Seungryong Kim et al.)
-- **[Scaling Mathematical Proof Supervision from Structured Textbooks](https://arxiv.org/abs/2610.40394)** — `43 upvotes` (Youqing Fang, Zhouqi Hua, Yinhao Tang et al.)
+- **[SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://arxiv.org/abs/2611.15777)** — `87 upvotes` (Lichen Li, Ziping Dong, Sicheng Feng et al.)
+- **[BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](https://arxiv.org/abs/2611.14815)** — `49 upvotes` (Junyoung Seo, Jaewoo Seo, Seungryong Kim et al.)
+- **[Scaling Mathematical Proof Supervision from Structured Textbooks](https://arxiv.org/abs/2610.40394)** — `47 upvotes` (Youqing Fang, Zhouqi Hua, Yinhao Tang et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,585`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `177,077`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,949`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,596`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `177,271`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,966`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-11-14 | [Raporu İncele](reports/2026-11-14.md) |
 | 2026-11-13 | [Raporu İncele](reports/2026-11-13.md) |
 | 2026-11-12 | [Raporu İncele](reports/2026-11-12.md) |
 | 2026-11-11 | [Raporu İncele](reports/2026-11-11.md) |
@@ -51,7 +52,6 @@
 | 2026-10-18 | [Raporu İncele](reports/2026-10-18.md) |
 | 2026-10-17 | [Raporu İncele](reports/2026-10-17.md) |
 | 2026-10-16 | [Raporu İncele](reports/2026-10-16.md) |
-| 2026-10-15 | [Raporu İncele](reports/2026-10-15.md) |
 
 ---
 
