@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-15-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-16-amber)
 
-## 🚀 Günün Radarı (2026-11-15)
-> En son güncelleme: **15 November 2026, 19:11 TRT** | [Tüm Raporu Oku →](reports/2026-11-15.md)
+## 🚀 Günün Radarı (2026-11-16)
+> En son güncelleme: **16 November 2026, 22:26 TRT** | [Tüm Raporu Oku →](reports/2026-11-16.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://arxiv.org/abs/2611.15777)** — `136 upvotes` (Lichen Li, Ziping Dong, Sicheng Feng et al.)
-- **[BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](https://arxiv.org/abs/2611.14815)** — `50 upvotes` (Junyoung Seo, Jaewoo Seo, Seungryong Kim et al.)
-- **[Scaling Mathematical Proof Supervision from Structured Textbooks](https://arxiv.org/abs/2610.40394)** — `47 upvotes` (Youqing Fang, Zhouqi Hua, Yinhao Tang et al.)
+- **[Envisioning Agentic Robotics: A New Era of Robotic Systems](https://arxiv.org/abs/2611.18359)** — `107 upvotes` (Grid Robotics, Qingfeng Lan, Duo Li et al.)
+- **[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://arxiv.org/abs/2611.18397)** — `87 upvotes` (Run Luo, Kuan Zhang, Qi Deng et al.)
+- **[VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender](https://arxiv.org/abs/2611.15789)** — `83 upvotes` (Yuzhe Chen, Muxi Diao, Lele Yang et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,612`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `177,518`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `168,992`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,578`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `177,659`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `169,041`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-11-16 | [Raporu İncele](reports/2026-11-16.md) |
 | 2026-11-15 | [Raporu İncele](reports/2026-11-15.md) |
 | 2026-11-14 | [Raporu İncele](reports/2026-11-14.md) |
 | 2026-11-13 | [Raporu İncele](reports/2026-11-13.md) |
@@ -51,7 +52,6 @@
 | 2026-10-20 | [Raporu İncele](reports/2026-10-20.md) |
 | 2026-10-19 | [Raporu İncele](reports/2026-10-19.md) |
 | 2026-10-18 | [Raporu İncele](reports/2026-10-18.md) |
-| 2026-10-17 | [Raporu İncele](reports/2026-10-17.md) |
 
 ---
 
