@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-17-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-18-amber)
 
-## 🚀 Günün Radarı (2026-11-17)
-> En son güncelleme: **17 November 2026, 21:20 TRT** | [Tüm Raporu Oku →](reports/2026-11-17.md)
+## 🚀 Günün Radarı (2026-11-18)
+> En son güncelleme: **18 November 2026, 20:54 TRT** | [Tüm Raporu Oku →](reports/2026-11-18.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[Sage S2.1 Flash Technical Report](https://arxiv.org/abs/2611.21072)** — `83 upvotes` (Kun Cai, Haodong Chen, Guangran Cheng et al.)
-- **[AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data](https://arxiv.org/abs/2611.19937)** — `66 upvotes` (Annan Wang, Yuchen Xie, Yu Cen et al.)
-- **[K2-Horizon: A Frontier Fleet of Open Source Language Models](https://arxiv.org/abs/2611.21003)** — `63 upvotes` (K2 Team, Zhengzhong Liu, Haonan Li et al.)
+- **[TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](https://arxiv.org/abs/2611.22115)** — `148 upvotes` (Xingchen AGI Lab, Baotian Hu, Bingkai Yang et al.)
+- **[AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs](https://arxiv.org/abs/2611.17621)** — `91 upvotes` (AI Training Platform Team, Bingwei Zhang, Jing Li et al.)
+- **[Weight-Space Programming Doesn't Need Transformers](https://arxiv.org/abs/2611.22055)** — `43 upvotes` (Hyunjong Ok, Jaeho Lee)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,786`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `177,750`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `169,328`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,607`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `177,801`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `169,225`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-11-18 | [Raporu İncele](reports/2026-11-18.md) |
 | 2026-11-17 | [Raporu İncele](reports/2026-11-17.md) |
 | 2026-11-16 | [Raporu İncele](reports/2026-11-16.md) |
 | 2026-11-15 | [Raporu İncele](reports/2026-11-15.md) |
@@ -51,7 +52,6 @@
 | 2026-10-22 | [Raporu İncele](reports/2026-10-22.md) |
 | 2026-10-21 | [Raporu İncele](reports/2026-10-21.md) |
 | 2026-10-20 | [Raporu İncele](reports/2026-10-20.md) |
-| 2026-10-19 | [Raporu İncele](reports/2026-10-19.md) |
 
 ---
 
