@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-21-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-22-amber)
 
-## 🚀 Günün Radarı (2026-11-21)
-> En son güncelleme: **21 November 2026, 19:41 TRT** | [Tüm Raporu Oku →](reports/2026-11-21.md)
+## 🚀 Günün Radarı (2026-11-22)
+> En son güncelleme: **22 November 2026, 19:59 TRT** | [Tüm Raporu Oku →](reports/2026-11-22.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](https://arxiv.org/abs/2611.21373)** — `52 upvotes` (Yipeng Du, Yuxi Li, Ying Zhang et al.)
-- **[Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation](https://arxiv.org/abs/2611.26444)** — `50 upvotes` (Yuzhi Huang, Jie Wu, Fanding Huang et al.)
-- **[Probing the "Conscious" Mind: Selective Access and Global Workspace in Vision-Language Models](https://arxiv.org/abs/2611.26590)** — `41 upvotes` (Jiahao Huang, Jun Wang)
+- **[WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](https://arxiv.org/abs/2611.21373)** — `56 upvotes` (Yipeng Du, Yuxi Li, Ying Zhang et al.)
+- **[Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation](https://arxiv.org/abs/2611.26444)** — `53 upvotes` (Yuzhi Huang, Jie Wu, Fanding Huang et al.)
+- **[WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding](https://arxiv.org/abs/2611.26409)** — `45 upvotes` (Changli Tang, Jie Yang, Tianyi Wang et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,665`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `178,157`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `169,345`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,757`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `178,262`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `169,384`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-11-22 | [Raporu İncele](reports/2026-11-22.md) |
 | 2026-11-21 | [Raporu İncele](reports/2026-11-21.md) |
 | 2026-11-20 | [Raporu İncele](reports/2026-11-20.md) |
 | 2026-11-19 | [Raporu İncele](reports/2026-11-19.md) |
@@ -51,7 +52,6 @@
 | 2026-10-26 | [Raporu İncele](reports/2026-10-26.md) |
 | 2026-10-25 | [Raporu İncele](reports/2026-10-25.md) |
 | 2026-10-24 | [Raporu İncele](reports/2026-10-24.md) |
-| 2026-10-23 | [Raporu İncele](reports/2026-10-23.md) |
 
 ---
 
