@@ -7,17 +7,17 @@
 ![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-24-amber)
 
 ## 🚀 Günün Radarı (2026-11-24)
-> En son güncelleme: **24 November 2026, 00:02 TRT** | [Tüm Raporu Oku →](reports/2026-11-24.md)
+> En son güncelleme: **24 November 2026, 23:02 TRT** | [Tüm Raporu Oku →](reports/2026-11-24.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction](https://arxiv.org/abs/2611.27193)** — `86 upvotes` (Haowei He, Ziwen Zhao, Chenshuo Pan et al.)
-- **[Non-penetrating World Models](https://arxiv.org/abs/2611.27963)** — `54 upvotes` (Yuhang Dai, Yinwei Wu, Ziyue Lin et al.)
-- **[Clover-35B-A3B-Preview Technical Report](https://arxiv.org/abs/2611.24636)** — `36 upvotes` (DiffuSpace Technical Team)
+- **[Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](https://arxiv.org/abs/2611.31201)** — `90 upvotes` (Xiao-Ming Wu, Kang Liao, Yuexiao Ma et al.)
+- **[WorldLeague: Benchmarking Physical Agency](https://arxiv.org/abs/2611.30989)** — `72 upvotes` (Xinyang Zhou, Qi Li, Xinchao Wang)
+- **[WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce](https://arxiv.org/abs/2611.30662)** — `54 upvotes` (Binhui Xie, Jinmin Li, Haomiao Tang et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,704`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `178,326`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `169,272`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,742`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `178,424`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `169,258`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
