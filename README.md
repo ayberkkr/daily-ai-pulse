@@ -4,24 +4,25 @@
 
 [![Daily Pulse](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml/badge.svg)](https://github.com/ayberkkr/daily-ai-pulse/actions/workflows/daily-pulse.yml)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-25-amber)
+![Last Updated](https://img.shields.io/badge/Son%20G%C3%BCncelleme-2026-11-26-amber)
 
-## 🚀 Günün Radarı (2026-11-25)
-> En son güncelleme: **25 November 2026, 22:03 TRT** | [Tüm Raporu Oku →](reports/2026-11-25.md)
+## 🚀 Günün Radarı (2026-11-26)
+> En son güncelleme: **26 November 2026, 21:54 TRT** | [Tüm Raporu Oku →](reports/2026-11-26.md)
 
 ### 📄 Öne Çıkan AI Makaleleri
-- **[Antom 3-in-1 Transformer: A Payment Foundation Model](https://arxiv.org/abs/2611.25403)** — `99 upvotes` (Weiyu Han, Haoyu Jiang, Jie Sheng et al.)
-- **[Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe](https://arxiv.org/abs/2611.32884)** — `87 upvotes` (Richmond Sin Jing Xuan, Peilin Feng, Wenbin Wang et al.)
-- **[Rewirable Circuits in Transformers with Loom Attention](https://arxiv.org/abs/2611.30634)** — `85 upvotes` (Da Xiao, Qingye Meng, Shengping Li et al.)
+- **[Real2SimLab: A Unified Platform for Real-to-Simulation Transfer](https://arxiv.org/abs/2611.34849)** — `101 upvotes` (Yongchang Zhang, Jie Huang, Yunhe Ni et al.)
+- **[Sage-Med: Scaling Medical Multimodal Intelligence](https://arxiv.org/abs/2611.34575)** — `84 upvotes` (Med Team, Ming Hu, Cheng Tang et al.)
+- **[Mixture-of-Loops Transformer](https://arxiv.org/abs/2611.34923)** — `57 upvotes` (Lianghui Zhu, Shijie Wang, Xinggang Wang et al.)
 
 ### ⚡ Trend Açık Kaynak Projeleri
-- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,817`) — An Open Source Machine Learning Framework for Everyone
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `178,508`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `169,311`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** (⭐ `201,860`) — An Open Source Machine Learning Framework for Everyone
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** (⭐ `178,584`) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** (⭐ `169,362`) — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 ## 📚 Arşiv
 | Tarih | Rapor |
 | :--- | :--- |
+| 2026-11-26 | [Raporu İncele](reports/2026-11-26.md) |
 | 2026-11-25 | [Raporu İncele](reports/2026-11-25.md) |
 | 2026-11-24 | [Raporu İncele](reports/2026-11-24.md) |
 | 2026-11-22 | [Raporu İncele](reports/2026-11-22.md) |
@@ -51,7 +52,6 @@
 | 2026-10-29 | [Raporu İncele](reports/2026-10-29.md) |
 | 2026-10-28 | [Raporu İncele](reports/2026-10-28.md) |
 | 2026-10-27 | [Raporu İncele](reports/2026-10-27.md) |
-| 2026-10-26 | [Raporu İncele](reports/2026-10-26.md) |
 
 ---
 
